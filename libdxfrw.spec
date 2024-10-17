@@ -8,7 +8,7 @@ Version:	0.5.8
 Release:	1
 License:	GPLv2+
 Group:		System/Libraries
-URL:		http://sourceforge.net/projects/libdxfrw
+URL:		https://sourceforge.net/projects/libdxfrw
 Source0:	http://prdownloads.sourceforge.net/libdxfrw/files/%{name}-%{version}.tar.bz2
 
 %description
