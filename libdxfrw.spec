@@ -11,6 +11,11 @@ Group:		System/Libraries
 URL:		https://sourceforge.net/projects/libdxfrw
 Source0:	http://prdownloads.sourceforge.net/libdxfrw/files/%{name}-%{version}.tar.bz2
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 libdxfrw is a free C++ library to read and write DXF
 files in both formats, ascii and binary form. It is licensed under
